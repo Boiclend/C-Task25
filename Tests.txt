@@ -1,0 +1,36 @@
+Введите строку
+Hello World.                            
+String without first letters: 
+ello orld.
+
+Введите строку
+London is the Capital of Great Britain.
+String without first letters:  
+ondon s he apital f reat ritain.
+
+Введите строку
+d.   
+String without first letters:
+
+Введите строку
+da.
+String without first letters: 
+a.
+
+Введите строку
+123.
+String without first letters: 
+23.
+
+Введите строку
+London is the Capital of Great Britain
+Отсутсвует точка в конце строки
+
+Введите строку
+.
+String without first letters: 
+
+Введите строку
+d.
+String without first letters: 
+.
