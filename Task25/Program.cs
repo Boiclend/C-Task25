@@ -2,8 +2,8 @@
 
 Console.WriteLine("Введите строку");
 string text = Console.ReadLine();
-int position = text.LastIndexOf(".");
-if (position != text.Length - 1)
+int position = text.LastIndexOf("."); // поиск индекса последнего вхождения символа точки
+if (position != text.Length - 1) 
 {
     Console.WriteLine("Отсутсвует точка в конце строки");
     return;
