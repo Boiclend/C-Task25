@@ -11,7 +11,7 @@ ondon s he apital f reat ritain.
 Введите строку
 d.   
 String without first letters:
-
+.
 Введите строку
 da.
 String without first letters: 
@@ -31,6 +31,6 @@ London is the Capital of Great Britain
 String without first letters: 
 
 Введите строку
-d.
-String without first letters: 
-.
+dfdsf dfsdf dfd{}. dfsdf . dsfdsf ... dfds ;.
+String without first letters:       
+fdsf fsdf fd{}. fsdf  sfdsf .. fds .
